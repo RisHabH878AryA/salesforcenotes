@@ -34,3 +34,6 @@
 | Hierarchical        | 1:1 / Tree  | `User` object only         | User approval chains and org charts         |
 | External / Indirect | 1:Many      | Salesforce ↔ External Data | Integrating off-platform databases          |
 
+
+https://trailhead.salesforce.com/content/learn/modules/data_modeling
+
